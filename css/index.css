@@ -113,6 +113,10 @@ button {
 	display: flex;
 }
 
+.contact {
+	margin-top: 2em;
+}
+
 footer {
 	text-align: center;
 	font-size: 15px;
@@ -251,9 +255,17 @@ footer {
 		text-align: left;
 	}
 
+	#top .container p {
+		margin-bottom: 2em;
+	}
+
 	#bottom .container {
 		display: block;
 		text-align: left;
+	}
+
+	#bottom .container p {
+		margin-bottom: 2em;
 	}
 
 	.contact {
